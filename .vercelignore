@@ -1,0 +1,8 @@
+*.png
+check-*.png
+v4-*.png
+screenshot-*.png
+final-*.png
+.playwright-mcp/
+AGENTS.md
+README.md

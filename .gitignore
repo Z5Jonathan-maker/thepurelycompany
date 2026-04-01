@@ -47,3 +47,11 @@ v4-*.png
 screenshot-*.png
 final-*.png
 .playwright-mcp/
+
+.vercel
+public/images/videos/busy-day.mp4
+public/images/videos/baby-jesus.mp4
+public/images/videos/calling-moms.mp4
+public/images/videos/holiday-preorder.mp4
+public/images/videos/leak-it.mp4
+public/images/videos/website-live.mp4
